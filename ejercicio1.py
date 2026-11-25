@@ -12,7 +12,7 @@ def invetario_f():
             "nombre": nombre,
             "precio": precio,
             "stock": stock
-        })
+        }) 
 
 
 
@@ -41,4 +41,4 @@ def invetario_f():
 
 
 
-invetario_f()
+invetario_f();
